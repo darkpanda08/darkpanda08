@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello World !👋
 
 Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors of Engineering from BMSIT, Bangalore, India. I am passionate about creating new technology to help people. I love tinkering with Web Development, Cloud Computing, DevOps and Electronics to create unique projects and learn from them.
 
