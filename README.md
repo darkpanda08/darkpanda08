@@ -4,8 +4,8 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing by Bachelors o
 
 Find me around the web 🌎:
 - More about me on [Portfolio](https://thedarkpanda.tech) 📃
-- Technical Blog on [Down The Codes](https://downthe.codes)✍
-- Sharing updates on [Linkedin](https://www.linkedin.com/in/darkpanda08)💼
+- Technical Blog on [Down The Codes](https://downthe.codes) ✍
+- Sharing updates on [Linkedin](https://www.linkedin.com/in/darkpanda08) 💼
 
 
 <!--
