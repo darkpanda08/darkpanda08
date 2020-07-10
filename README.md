@@ -2,11 +2,12 @@
 
 Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors of Engineering from BMSIT, Bangalore, India. I am passionate about creating new technology to help people. I love tinkering with Web Development, Cloud Computing, DevOps and Electronics to create unique projects and learn from them.
 
-Find me around the web 🌎:
 - More about me on [Portfolio](https://thedarkpanda.tech) 📃
 - Technical Blog on [Down The Codes](https://downthe.codes) ✍
+- I’m currently learning DataStructures and Kubernetes ☸
+- Currently working on LoRa and NodeJS Poject 📡
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/darkpanda08) 💼
-- Reach me at [Email](mailto:vineetranjan65@gmail.com)
+- Reach me at [Email](mailto:vineetranjan65@gmail.com) ✉ 
 
 <!--
 **darkpanda08/darkpanda08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
