@@ -6,7 +6,7 @@ Find me around the web 🌎:
 - More about me on [Portfolio](https://thedarkpanda.tech) 📃
 - Technical Blog on [Down The Codes](https://downthe.codes) ✍
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/darkpanda08) 💼
-
+- Reach me at [Email](mailto:vineetranjan65@gmail.com)
 
 <!--
 **darkpanda08/darkpanda08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
