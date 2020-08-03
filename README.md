@@ -4,7 +4,7 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 
 - More about me on [Portfolio](https://thedarkpanda.tech) 📃
 - Technical Blog on [Down The Codes](https://downthe.codes) ✍
-- I’m currently learning React and Kubernetes ☸
+- I’m currently learning React ⚛ and Kubernetes ☸
 - Currently working on LoRa and NodeJS Poject 📡
 - Sharing updates on [Linkedin](https://www.linkedin.com/in/darkpanda08) 💼
 - Reach me at [Email](mailto:vineetranjan65@gmail.com) ✉ 
