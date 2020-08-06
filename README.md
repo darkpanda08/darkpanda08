@@ -8,6 +8,11 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 - I'm Currently working on LoRa and NodeJS Poject 📡
 - 2020 Goals: Contribute to Open Source projects 🥅
 
+<p align="center">
+  <img alt="darkpanda08's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true" />
+<!-- <img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/37241276?s=460&u=0405afecb198c3541abeb92f2eaf3de9fd59455f&v=4" /> -->
+<!-- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=darkpanda08&hide=ruby,perl&hide_border=true" /> -->
+</p>
 
 <!-- Websites -->
 [portfolio]: https://thedarkpanda.tech
@@ -38,15 +43,9 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.google.com/search?&q=Git)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.google.com/search?&q=Github)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.google.com/search?&q=Docker)
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.google.com/search?&q=Docker)
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 [<img align="left" alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />](https://www.google.com/search?&q=Windows)
 
 <br />
 <br />
-
-<p align="center">
-  <img alt="darkpanda08's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true" />
-<!-- <img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/37241276?s=460&u=0405afecb198c3541abeb92f2eaf3de9fd59455f&v=4" /> -->
-<!-- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=darkpanda08&hide=ruby,perl&hide_border=true" /> -->
-</p>
