@@ -24,7 +24,7 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 [gmail]: mailto:vineetranjan65@gmail.com
 
 
-### Connect with me:
+### Connect With Me:
 
 [<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384062.svg" />][linkedin]
