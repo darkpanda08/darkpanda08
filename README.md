@@ -2,7 +2,7 @@
 
 Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors of Engineering from BMSIT, Bangalore, India. I am passionate about creating new technology to help people. I love tinkering with Web Development, Cloud Computing, DevOps and Electronics to create unique projects and learn from them.
 
-- More about me on [Portfolio](https://thedarkpanda.tech) 📃
+- More about me on [Portfolio][portfolio] 📃
 - Technical Blog on [Down The Codes][downthecodes] ✍
 - I’m currently learning `React` ⚛ and `Docker` 🐳
 - I'm Currently working on LoRa and NodeJS Poject 📡
@@ -10,6 +10,7 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 
 
 <!-- Websites -->
+[portfolio]: https://thedarkpanda.tech
 [twitter]: https://www.twitter.com/cineetranjan08
 [downthecodes]: https://downthe.codes
 [linkedin]: https://www.linkedin.com/in/darkpanda08
@@ -33,9 +34,11 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.google.com/search?&q=HTML5)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.google.com/search?&q=CSS)
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://www.google.com/search?&q=Nodejs)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.google.com/search?&q=Python)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.google.com/search?&q=Git)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://www.google.com/search?&q=Github)
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.google.com/search?&q=Docker)
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
 [<img align="left" alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />](https://www.google.com/search?&q=Windows)
 
