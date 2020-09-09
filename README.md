@@ -16,7 +16,7 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 
 <!-- Websites -->
 [portfolio]: https://thedarkpanda.tech
-[twitter]: https://www.twitter.com/cineetranjan08
+[twitter]: https://www.twitter.com/vineetranjan08
 [downthecodes]: https://downthe.codes
 [linkedin]: https://www.linkedin.com/in/darkpanda08
 [github]: https://www.github.com/darkpanda08
