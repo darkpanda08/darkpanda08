@@ -14,6 +14,8 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 <img src="https://github-stats-for-readme.vercel.app/api/top-langs/?username=darkpanda08&hide=css,scss,handlebars&langs_count=7&hide_border=true&layout=compact" />
 </p>
 
+<sup>Github Stats by: [@anuraghazra][github-stats]</sup>
+
 <!-- Websites -->
 [portfolio]: https://thedarkpanda.tech
 [twitter]: https://www.twitter.com/vineetranjan08
@@ -22,6 +24,7 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 [github]: https://www.github.com/darkpanda08
 [instagram]: https://www.instagram.com/vineetr1999
 [gmail]: mailto:vineetranjan65@gmail.com
+[github-stats]: https://github.com/anuraghazra/github-readme-stats
 
 
 ### Connect With Me:
