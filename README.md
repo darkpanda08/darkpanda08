@@ -9,9 +9,9 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 - 2020 Goals: Contribute to Open Source projects 🥅
 
 <p align="center">
-  <img alt="darkpanda08's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img alt="darkpanda08's Github Stats" src="https://github-readme-stats.vercel.app/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" />
 <!-- <img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/37241276?s=460&u=0405afecb198c3541abeb92f2eaf3de9fd59455f&v=4" /> -->
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=darkpanda08&hide=css&hide_border=true" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=darkpanda08&hide=css,scss,handlebars&langs_count=7&hide_border=true&layout=compact" />
 </p>
 
 <!-- Websites -->
