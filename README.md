@@ -5,7 +5,7 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 - More about me on [Portfolio][portfolio] 📃
 - Technical Blog on [Down The Codes][downthecodes] ✍
 - I’m currently learning `React` ⚛ and `Docker` 🐳
-- I'm Currently working on LoRa and NodeJS Poject 📡
+- I'm Currently working on LoRaWAN based Poject 📡
 - 2020 Goals: Contribute to Open Source projects 🥅
 
 <p align="center">
