@@ -4,9 +4,9 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 
 - More about me on [Portfolio][portfolio] 📃
 - Technical Blog on [Down The Codes][downthecodes] ✍
-- I’m currently learning `React` ⚛ and `Docker` 🐳
+- I’m currently learning `ROS` and `Docker` 🐳
 - I'm Currently working on LoRaWAN based Poject 📡
-- 2020 Goals: Contribute to Open Source projects 🥅
+- 2021 Goals: Contribute to Open Source projects and create ew projects
 
 <p align="center">
   <img alt="darkpanda08's Github Stats" src="https://github-stats-for-readme.vercel.app/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" />
