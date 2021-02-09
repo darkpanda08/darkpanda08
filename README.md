@@ -1,12 +1,12 @@
 # Hello World !👋
 
-Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors of Engineering from BMSIT, Bangalore, India. I am passionate about creating new technology to help people. I love tinkering with Web Development, Cloud Computing, DevOps and Electronics to create unique projects and learn from them.
+Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors of Engineering from BMSIT, Bangalore, India. I am passionate about creating new technology to help people. I love tinkering with Backend and API Development, Cloud Computing, DevOps and Electronics to create unique projects and learn from them.
 
 - More about me on [Portfolio][portfolio] 📃
 - Technical Blog on [Down The Codes][downthecodes] ✍
 - I’m currently learning `ROS` and `Docker` 🐳
 - I'm Currently working on LoRaWAN based Poject 📡
-- 2021 Goals: Contribute to Open Source projects and create ew projects
+- 2021 Goals: Learn more on deploying CI/CD Pipelines
 
 <p align="center">
   <img alt="darkpanda08's Github Stats" src="https://github-stats-for-readme.vercel.app/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" />
@@ -39,10 +39,11 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
+[<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />](https://aws.amazon.com)
+[<img align="left" alt="Google Cloud Platform" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />](https://cloud.google.com)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.google.com/search?&q=HTML5)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.google.com/search?&q=CSS)
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />](https://www.google.com/search?&q=JavaScript)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />](https://www.mongodb.com)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.python.org)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
@@ -50,7 +51,6 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
 [<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />](https://redis.io)
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
-[<img align="left" alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />](https://www.microsoft.com/en-in/windows)
 
 <br />
 <br />
