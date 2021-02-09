@@ -27,16 +27,6 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 [github-stats]: https://github.com/anuraghazra/github-readme-stats
 
 
-### Connect With Me:
-
-[<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384062.svg" />][linkedin]
-[<img align="left" alt="Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="left" alt="Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />](https://aws.amazon.com)
@@ -51,6 +41,16 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
 [<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />](https://redis.io)
 [<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
+
+<br />
+
+### Connect With Me:
+
+[<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384062.svg" />][linkedin]
+[<img align="left" alt="Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
+[<img align="left" alt="Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
+[<img align="left" alt="Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 <br />
 <br />
