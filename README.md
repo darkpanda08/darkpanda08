@@ -53,4 +53,3 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 [<img align="left" alt="Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
 
 <br />
-<br />
