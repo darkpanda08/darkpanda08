@@ -17,7 +17,7 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 <sup>Github Stats by: [@anuraghazra][github-stats]</sup>
 
 <!-- Websites -->
-[portfolio]: https://thedarkpanda.tech
+[portfolio]: https://vineetranjan.dev
 [twitter]: https://www.twitter.com/vineetranjan08
 [downthecodes]: https://downthe.codes
 [linkedin]: https://www.linkedin.com/in/darkpanda08
