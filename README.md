@@ -1,4 +1,4 @@
-# Hello World !👋
+# Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors of Engineering from BMSIT, Bangalore, India. I am passionate about creating new technology to help people. I love tinkering with Backend and API Development, Cloud Computing, DevOps and Electronics to create unique projects and learn from them.
 
