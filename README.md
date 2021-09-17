@@ -20,7 +20,7 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 [portfolio]: https://vineetranjan.dev
 [twitter]: https://www.twitter.com/vineetranjan08
 [downthecodes]: https://downthe.codes
-[linkedin]: https://www.linkedin.com/in/darkpanda08
+[linkedin]: https://www.linkedin.com/in/vineetranjan08
 [github]: https://www.github.com/darkpanda08
 [instagram]: https://www.instagram.com/vineetr1999
 [gmail]: mailto:vineetranjan65@gmail.com
