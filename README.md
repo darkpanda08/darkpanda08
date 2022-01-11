@@ -8,11 +8,8 @@ Hi, I'm Engineering Graduate from BMSIT, Bangalore, India. I am passionate about
 - I'm Currently working on LoRaWAN based Poject 📡
 - 2021 Goals: Learn more on deploying CI/CD Pipelines
 
-<p align="center">
-  <img alt="darkpanda08's Github Stats" src="https://github-stats-for-readme.vercel.app/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" />
-<!-- <img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/37241276?s=460&u=0405afecb198c3541abeb92f2eaf3de9fd59455f&v=4" /> -->
-<img src="https://github-stats-for-readme.vercel.app/api/top-langs/?username=darkpanda08&hide=css,scss,handlebars&langs_count=7&hide_border=true&layout=compact" />
-</p>
+| <img align="center" src="https://github-stats-for-readme.vercel.app/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" /> | <img align="center" src="https://github-stats-for-readme.vercel.app/api/top-langs/?username=darkpanda08&hide=css,scss,handlebars&langs_count=7&hide_border=true&layout=compact" />|
+| ------------- | ------------- |
 
 <sup>Github Stats by: [@anuraghazra][github-stats]</sup>
 
