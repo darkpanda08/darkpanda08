@@ -1,6 +1,6 @@
 # Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors of Engineering from BMSIT, Bangalore, India. I am passionate about creating new technology to help people. I love tinkering with Backend and API Development, Cloud Computing, DevOps and Electronics to create unique projects and learn from them.
+Hi, I'm Engineering Graduate from BMSIT, Bangalore, India. I am passionate about creating new technology to help people. I love tinkering with Backend and API Development, Cloud Computing, DevOps and Electronics to create unique projects and learn from them.
 
 - More about me on [Portfolio][portfolio] 📃
 - Technical Blog on [Down The Codes][downthecodes] ✍
@@ -31,23 +31,20 @@ Hi, I'm a Electrical and Electronics Engineering student pursuing my Bachelors o
 
 [<img align="left" alt="Amazon Web Services" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />](https://aws.amazon.com)
 [<img align="left" alt="Google Cloud Platform" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png" />](https://cloud.google.com)
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />](https://angular.io/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />](https://www.google.com/search?&q=JavaScript)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />](https://www.mongodb.com)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/python.svg" />](https://www.python.org)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
-[<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />](https://redis.io)
-[<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />](https://git-scm.com/)
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />](https://www.docker.com/)
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />](https://www.google.com/search?&q=Linux)
 
 <br />
 
 ### Connect With Me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384062.svg" />][linkedin]
-[<img align="left" alt="Github" width="22px" src="https://image.flaticon.com/icons/svg/733/733553.svg" />][github]
-[<img align="left" alt="Email" width="22px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />][gmail]
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Email" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />][gmail]
 
 <br />
