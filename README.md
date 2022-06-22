@@ -1,10 +1,10 @@
-# Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hello World !
 
 Hi, I'm self taught cloud and backend developer fron INDIA 🇮🇳. I love tinkering with Backend and API Development, Cloud Computing, DevOps and Electronics to create unique projects and learn from them.
 
 - More about me on [Portfolio][portfolio] 📃
 - Technical Blog on [Down The Codes][downthecodes] ✍
-- I’m currently learning `Docker` 🐳
+- I’m currently learning `Docker` 🐳 and `Networking` 🕸
 - I'm Currently working on LoRaWAN based Poject 📡
 - 2022 Goals: Learn more on deploying CI/CD Pipelines
 
