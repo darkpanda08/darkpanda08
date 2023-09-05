@@ -1,12 +1,9 @@
 # Hello World !
 
-Hi, I'm self taught cloud and backend developer fron INDIA 🇮🇳. I love tinkering with Backend and API Development, Cloud Computing, DevOps and Electronics to create unique projects and learn from them.
+Hi, I'm self taught cloud and backend developer fron INDIA 🇮🇳. I love tinkering with Backend and API Development, Cloud Computing and Electronics to create unique projects and learn from them.
 
 - More about me on [Portfolio][portfolio] 📃
 - Technical Blog on [Down The Codes][downthecodes] ✍
-- I’m currently learning `Docker` 🐳 and `Networking` 🕸
-- I'm Currently working on LoRaWAN based Poject 📡
-- 2022 Goals: Learn more on deploying CI/CD Pipelines
 
 | <a href="https://github.com/darkpanda08"><img align="center" src="https://github-stats-for-readme.vercel.app/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" /> </a> | <a href="https://github.com/darkpanda08"><img align="center" src="https://github-stats-for-readme.vercel.app/api/top-langs/?username=darkpanda08&hide=css,scss,handlebars&langs_count=7&hide_border=true&layout=compact" /> </a>|
 | ------------- | ------------- |
