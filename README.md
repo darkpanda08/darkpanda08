@@ -16,8 +16,6 @@ Hi, I'm self taught cloud and backend developer fron INDIA 🇮🇳. I love tink
 [downthecodes]: https://downthe.codes
 [linkedin]: https://www.linkedin.com/in/vineetranjan08
 [github]: https://www.github.com/darkpanda08
-[instagram]: https://www.instagram.com/vineetr1999
-[gmail]: mailto:vineetranjan65@gmail.com
 [github-stats]: https://github.com/anuraghazra/github-readme-stats
 
 
