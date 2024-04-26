@@ -5,7 +5,7 @@ Hi, I'm self taught cloud and backend developer fron INDIA 🇮🇳. I love tink
 - More about me on [Portfolio][portfolio] 📃
 - Technical Blog on [Down The Codes][downthecodes] ✍
 
-| <a href="https://github.com/darkpanda08"><img align="center" src="https://github-stats-for-readme.vercel.app/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" /> </a> | <a href="https://github.com/darkpanda08"><img align="center" src="https://github-stats-for-readme.vercel.app/api/top-langs/?username=darkpanda08&hide=css,scss,handlebars&langs_count=7&hide_border=true&layout=compact" /> </a>|
+| <a href="https://github.com/darkpanda08"><img align="center" src="https://github-stats.vineetranjan.dev/api?username=darkpanda08&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" /> </a> | <a href="https://github.com/darkpanda08"><img align="center" src="https://github-stats.vineetranjan.dev/api/top-langs/?username=darkpanda08&hide=css,scss,handlebars&langs_count=7&hide_border=true&layout=compact" /> </a>|
 | ------------- | ------------- |
 
 <sup>Github Stats by: [@anuraghazra][github-stats]</sup>
