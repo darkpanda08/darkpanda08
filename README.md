@@ -35,7 +35,6 @@ Hi, I'm self taught cloud and backend developer fron INDIA 🇮🇳. I love tink
 
 ### Connect With Me:
 
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" />][twitter]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />][linkedin]
 
 <br />
